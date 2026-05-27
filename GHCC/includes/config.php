@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 define('DB_HOST', 'localhost:3306');
-define('DB_USER', 'ghcc_emma');
-define('DB_PASS', 'Ghcc_web');
-define('DB_NAME', 'ghccmain');
+define('DB_USER', '');
+define('DB_PASS', '');
+define('DB_NAME', '');
 
 // Website configuration
 define('SITE_NAME', 'Grate House');
